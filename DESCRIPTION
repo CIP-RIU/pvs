@@ -1,0 +1,16 @@
+Package: pvs
+Title: The package for Participatory Varietal Selection (PVS) under Mother&Baby methodology
+Version: 0.0.0.9000
+Authors@R: person("First", "Last", email = "first.last@example.com", role = c("aut", "cre"))
+Description: Perform analysis and graphics for different types of data which are collected in PVS trials.
+Depends:
+    R (>= 3.3.1)
+Imports: ggplot2,
+         dplyr,
+         tidyr,
+         purrr,
+         stringr
+License: MIT + file LICENCE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 5.0.1
