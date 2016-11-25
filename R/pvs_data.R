@@ -1,22 +1,25 @@
 #' @name pvs_data
-#' @title Crop Template for Excel Fieldbooks in HiDAP
+#' @title PVS dataset collect from HiDAP
 #' @docType data
-#' @aliases crop_template_xlsx
-#' @description This dataset contains the excel crop template to create Fieldbooks
-#' @references This data is related to HiDAP crop template
-#' @usage crop_template_xlsx
-#' @format A data frame data.frame which comes from importing excel crop template files.
+#' @aliases pvs_data
+#' @description This dataset contains the excel pvs form.
+#' @references This data is related to HiDAP pvs form files.
+#' @usage pvs_data
+#' @format A data frame data.frame which comes from importing excel pvs form files.
 #' @source International Potato Center, potato experimental data.
 NULL
 
 
 #' @name pvs_emptydata
-#' @title Crop Template for Excel Fieldbooks in HiDAP
+#' @title PVS empty dataset collect from HiDAP.
 #' @docType data
-#' @aliases crop_template_xlsx
-#' @description This dataset contains the excel crop template to create Fieldbooks
-#' @references This data is related to HiDAP crop template
-#' @usage crop_template_xlsx
-#' @format A data frame data.frame which comes from importing excel crop template files.
+#' @aliases pvs_emptydata
+#' @description This dataset contains empty form.
+#' @references This data is related to HiDAP pvs empty form
+#' @usage pvs_emptydata
+#' @format A data frame data.frame which comes from importing excel pvs empty form files.
 #' @source International Potato Center, potato experimental data.
 NULL
+
+
+
